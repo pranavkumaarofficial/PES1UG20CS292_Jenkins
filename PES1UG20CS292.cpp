@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(void) {
-  cout < "Hello, World from PES1UG20CS292 \nCC Assignmen
-  return 0
+  cout < <"Hello, World from PES1UG20CS292 \nCC Assignmen
+  return 0;
 }
